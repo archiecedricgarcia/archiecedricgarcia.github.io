@@ -1,0 +1,25 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+header
+{
+      font-size: large;
+}
+
+body
+{
+      font-size: medium;
+      text-align: center;
+      color: white;
+      margin-left: 15%;
+      margin-right: 15%;
+      background-image: url("backg.jpg");
+}
+
+.hi
+{
+  text-align: justify;
+}
+
+footer
+{
+      font-size: small;
+}
